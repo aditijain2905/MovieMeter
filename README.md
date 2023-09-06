@@ -1,4 +1,4 @@
-# moviem_meter
+# movie_meter
 
 A new Flutter project.
 
