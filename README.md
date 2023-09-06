@@ -5,6 +5,8 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+This is a simple app movie rating app . You can check reviews ,description and ratings of all the latest movies and tv series.
+Used TMDB api to get data.
 
 A few resources to get you started if this is your first Flutter project:
 
